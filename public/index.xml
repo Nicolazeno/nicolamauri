@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on A minimal Hugo website</title>
+    <link>/</link>
+    <description>Recent content in Home on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>University of Lausanne
+Quartier UNIL-Mouline
+IDHEAP Building
+Finances publiques
+Office : 1302
+CH-1015 Lausanne
+nicola.mauri@unil.ch</description>
+    </item>
+    
+    <item>
+      <title>Research Projects</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Working Papers Are incentive effects from fiscal equalization underestimated? Evidence from a Swiss reform UNIL Econ working paper 21.13 - current manuscript (11/2021)
+Status: Submitted.
+This paper investigates the incentive and redistribution effects of fiscal equalization on local tax rates. Using quasi-experimental evidence from a reform in a municipal equalization scheme, I propose three refinements to current empirical estimations of incentive effects of fiscal equalization. My results show that past literature using marginal equalization rates may have underestimated incentive effects from fiscal equalization.</description>
+    </item>
+    
+    <item>
+      <title>What do I do the rest of my time?</title>
+      <link>/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/miscellaneous/</guid>
+      <description>Computing gradients&amp;hellip; &amp;hellip;in the summer: exploring&amp;hellip; (somewhere in Jura)
+..in the winter: freezing. (ski touring up to the Gibel)</description>
+    </item>
+    
+  </channel>
+</rss>
