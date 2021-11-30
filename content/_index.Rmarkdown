@@ -8,9 +8,9 @@ title: Home
 
 ## _PhD candidate in Economics, University of Lausanne_
 
-I am a fourth year PhD student in Economics at the University of Lausanne. I am affiliated to the [Economics department](https://www.unil.ch/de/en/home.html) and the [Public Finance Unit of IDHEAP](https://www.unil.ch/idheap/en/home/menuinst/unitescompetences/finances-publiques.html), where I also teach.
+I am a fourth year PhD student in Economics at the University of Lausanne. I am affiliated to the [Economics Department](https://www.unil.ch/de/en/home.html) and the [Public Finance Unit of IDHEAP](https://www.unil.ch/idheap/en/home/menuinst/unitescompetences/finances-publiques.html), where I also teach.
 
-I am interested in public finance and regional economics, in particular topics related to fiscal federalism and tax-competition. I am fascinated by data analysis and visualization, econometric methods and policy-evaluation. 
+I am interested in public and regional economics, in particular topics related to fiscal federalism and tax-competition. I am fascinated by data analysis and visualization, econometric methods and policy-evaluation. 
 
 **[Detailed CV](/./images/CV_2021.pdf).**
 
