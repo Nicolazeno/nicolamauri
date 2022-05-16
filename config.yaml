@@ -26,7 +26,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; Nicola Mauri  2021 | [Linkedin](https://www.linkedin.com/in/nicola-mauri-53a9a24b/) | [Twitter](https://twitter.com/nm_zeno) | [RePEc](https://ideas.repec.org/f/pma3114.html)" 
+  footer: "&copy; Nicola Mauri  2022 | [Linkedin](https://www.linkedin.com/in/nicola-mauri-53a9a24b/) | [Twitter](https://twitter.com/nm_zeno) | [RePEc](https://ideas.repec.org/f/pma3114.html)" 
 markup:
   highlight:
     codeFences: false
