@@ -17,7 +17,7 @@ This paper investigates incentive effects of fiscal equalization on local tax ra
 
 ## Work in Progress
 
-### _The impact of fiscal decentralization on commuting decisions_
+### _Commuting decisions in fiscally decentralized economies_
 
 with Jeremy Zuchuat
 
