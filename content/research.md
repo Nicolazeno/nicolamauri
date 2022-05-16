@@ -17,7 +17,7 @@ This paper investigates incentive effects of fiscal equalization on local tax ra
 
 ## Work in Progress
 
-### _The impact of fiscal decentralization on commuting decisions_  
+### _The impact of fiscal decentralization on commuting decisions_
 
 with Jeremy Zuchuat
 
@@ -28,7 +28,7 @@ Available on request.
 Delegation of revenue raising responsibilities to regional and local governments is one
 of the central features of federalist countries. Its effects on housing prices are well understood. But how does fiscal decentralization, and in particular local income taxation, shape commuting decisions of individuals with different income levels? In this paper we develop a structural location choice model where income sorting is generated through housing prices and decentralized progressive income taxation. Additionally, we assume that agents choose their residential location within a monocentric city and incur a commuting disutility according to the travel distance. Our model shows that progressive taxation coupled with decentralization impacts agents' opportunity cost of time and can make individuals with higher income more willing to commute to low-tax jurisdictions than low-income earners. These predictions are verified using micro-level data on moving decisions in Switzerland. Based on a random utility approach, we find that high incomes tend to be less sensitive to commuting, and that lower local taxes increase their willingness to commute. In a counterfactual scenario, we show that unifying taxes across space would lead to a gentrification of city centers and a decline in the income levels of peripheral jurisdictions.
 
-###  _Perceived tax base mobility: evidence from a transfer windfall _
+###  _Perceived tax base mobility: evidence from a transfer windfall_
 
 **Status:** Ongoing.
 
