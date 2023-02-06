@@ -6,7 +6,7 @@ title: Research Projects
 
 ###  _Fiscal Equalization Pushes Up Local Tax Rates: Evidence from Switzerland_ 
 
-[current manuscript](/./images/draft_2022_16_05.pdf) (05/2022)
+[current manuscript](/./images/equalization_2023_02.pdf) (02/2023)
 
 **Status:** Submitted.
 
