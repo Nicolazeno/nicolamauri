@@ -14,7 +14,7 @@ title: Research Projects
 This paper investigates incentive effects of fiscal equalization on local tax rates. I propose two refinements to current empirical estimations of these incentive effects. I show that local policy makers may conceive of changes in equalization transfers as stemming from discrete rather than marginal changes in the tax base, thus considering “supramarginal” equalization rates. Second, I study “effective” equalization rates, conditioned on the current tax rate. To identify
 the incentives created by equalization grants I investigate the reform of an inter-municipal equalization scheme in Switzerland. My baseline estimate from supramarginal equalization rates is 2-3 times larger than that found in previous comparable studies. I however do not find any effect for effective equalization rates.
 
-### _Commuting and Income Sorting in Fiscally Decentralized Cities_
+### _Progressive Taxation, Commuting Costs and Residential Locations Decisions in Fiscally Decentralized Cities_
 
 with Jeremy Zuchuat
 
@@ -22,7 +22,7 @@ Available on request.
 
 **Status:** Submitted.
 
-Decentralized taxation affects numerous dimensions of economic activity, but how it shapes individual commuting decisions and spatial income sorting is still not well understood. We develop a structural model of individual location choices in a fiscally decentralized monocentric city with explicit commuting costs. Income sorting arises from non-homothetic housing preferences combined with decentralized progressive income taxes, which affect the willingness to commute of high-income individuals more than that of low incomes. This induces high incomes to be more willing to commute to low-tax jurisdictions. We estimate this model using micro-level data on moving decisions in Switzerland. Based on a random utility framework, we find that lower local taxes directly increase individuals’ willingness to commute and that high incomes are less sensitive to commuting. In a counterfactual exercise, we show that uniform taxation within urban areas would lead to more high-income individuals locating in central jurisdictions, hence enduring lower commutes.
+Decentralized taxation and commuting affect numerous dimensions of economic activity, but how they jointly shape residential decisions and spatial income sorting is still not well understood. We develop a structural model of individual location choices in a fiscally decentralized monocentric city with explicit commuting costs. Spatial income sorting arises from decentralized progressive income taxes and non-homothetic housing preferences. Progressive taxation impacts high-income individuals’ utility more markedly, hence reducing their commuting disutility. This induces high incomes to be more willing to commute to low-tax jurisdictions. We estimate our model using micro-level data on moving decisions in Switzerland. Based on a random utility framework, we find that richer individuals are more sensitive to taxes and less sensitive to commuting. Further, our results show that lower local taxes directly increase individuals’ willingness to commute. In a counterfactual exercise, we show that uniform	taxation within urban areas would lead to more high-income individuals locating in central jurisdictions, hence enduring shorter commutes.
 
 ###  _How Fiscally Autonomous Are Local Governments? An Empirical Test_
 
