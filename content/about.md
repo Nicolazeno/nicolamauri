@@ -3,10 +3,9 @@ author:
 title: Contact
 ---
 
-University of Lausanne \
-Quartier UNIL-Mouline \
-IDHEAP Building\
-Finances publiques\
-Office : 1302\
-CH-1015 Lausanne\
-[nicola.mauri@unil.ch](mailto:nicola.mauri@unil.ch)
+Eidgenössische Steuerverwaltung ESTV \
+Administration Fédérale des Contributions AFC\
+Eigerstrasse 65 \
+Office : 204\
+CH-3003 Bern\
+[nicola.mauri@estv.admin.ch](mailto:nicola.mauri@estv.admin.ch)
