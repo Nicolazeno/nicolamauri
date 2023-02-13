@@ -6,7 +6,7 @@ title: Home
 
 # Nicola Mauri
 
-## _PhD candidate in Economics, University of Lausanne_
+## _PhD in Economics, University of Lausanne_
 
 I am affiliated to the [Economics Department](https://www.unil.ch/de/en/home.html) and the [Public Finance Unit of IDHEAP](https://www.unil.ch/idheap/en/home/menuinst/unitescompetences/finances-publiques.html). I am currently working as a scientific collaborator at the Swiss Federal Tax Administration.
 
