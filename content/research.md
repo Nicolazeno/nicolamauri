@@ -18,7 +18,7 @@ the incentives created by equalization grants I investigate the reform of an int
 
 with Jeremy Zuchuat
 
-Available on request.
+[current manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4357959) (02/2023)
 
 **Status:** Submitted.
 
