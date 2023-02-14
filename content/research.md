@@ -14,7 +14,7 @@ title: Research Projects
 This paper investigates incentive effects of fiscal equalization on local tax rates. I propose two refinements to current empirical estimations of these incentive effects. I show that local policy makers may conceive of changes in equalization transfers as stemming from discrete rather than marginal changes in the tax base, thus considering “supramarginal” equalization rates. Second, I study “effective” equalization rates, conditioned on the current tax rate. To identify
 the incentives created by equalization grants I investigate the reform of an inter-municipal equalization scheme in Switzerland. My baseline estimate from supramarginal equalization rates is 2-3 times larger than that found in previous comparable studies. I however do not find any effect for effective equalization rates.
 
-### _Progressive Taxation, Commuting Costs and Residential Locations Decisions in Fiscally Decentralized Cities_
+### _Progressive Taxation, Commuting Costs and Residential Decisions in Fiscally Decentralized Cities_
 
 with Jeremy Zuchuat
 
