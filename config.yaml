@@ -23,9 +23,8 @@ menu:
       url: "research/"
       weight: 2
 
-
 params:
-  font: "sans-serif"
+  font-family: "sans-serif"
   description: "Nicola's personal website"
   footer: "&copy; Nicola Mauri  2022 | [Linkedin](https://www.linkedin.com/in/nicola-mauri-53a9a24b/) | [Twitter](https://twitter.com/nm_zeno) | [RePEc](https://ideas.repec.org/f/pma3114.html)" 
 markup:
@@ -34,3 +33,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
