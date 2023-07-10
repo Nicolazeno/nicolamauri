@@ -2,16 +2,13 @@
 title: Home
 ---
 
-[<img src="/./images/CV_photo.jpg" style="max-width:40%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+[<img src="/./images/CV_photo.jpg" style="max-width:40%;min-width:40px;float:right;" alt="no cars" />](https://www.cols-cyclisme.com/alpes-bernoises/suisse/grosse-scheidegg-depuis-meiringen-c1240.htm)
 
-# Nicola Mauri
+# Nicola Mauri, PhD
 
-## _PhD in Economics, University of Lausanne_
-I am an economist currently working as a scientific collaborator at the Swiss Federal Tax Administration. I am affiliated to the [Economics Department](https://www.unil.ch/de/en/home.html) and the [Public Finance Unit of IDHEAP](https://www.unil.ch/idheap/en/home/menuinst/unitescompetences/finances-publiques.html). 
+I am an economist currently working as a scientific collaborator at the Swiss Federal Tax Administration. I am affiliated to the [Economics Department of HEC Lausanne](https://www.unil.ch/de/en/home.html) and the [Public Finance Unit of IDHEAP](https://www.unil.ch/idheap/en/home/menuinst/unitescompetences/finances-publiques.html). In may-june 2022 I was a visiting researcher at [VATT](https://vatt.fi/en/frontpage).
 
-I am interested in public and regional economics, in particular topics related to fiscal federalism and tax-competition. I am fascinated by data analysis and visualization, econometric methods and policy-evaluation. 
-
-**[Detailed CV](/./images/CV_2022.pdf).**
+My research interests include public and regional economics, with a focus on fiscal federalism and tax-competition. I am fascinated by data analysis and visualization, econometric methods and policy-evaluation. 
 
 Get in touch with me at [nicola.mauri@estv.admin.ch](mailto:nicola.mauri@estv.admin.ch).
 
