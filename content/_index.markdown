@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="/./images/CV_photo.jpg" style="max-width:40%;min-width:40px;float:right;" alt="no cars" />](https://www.cols-cyclisme.com/alpes-bernoises/suisse/grosse-scheidegg-depuis-meiringen-c1240.htm)
+[<img src="/./images/CV_photo.jpg" style="max-width:40%;min-width:40px;float:right;" alt="no cars" />](https://www.youtube.com/watch?v=7cSNNvoJJXQ)
 
 # Nicola Mauri
 
