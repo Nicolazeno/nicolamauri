@@ -16,7 +16,7 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: Contact
+    - name: About
       url: "about/"
       weight: 3
     - name: Research
@@ -26,7 +26,7 @@ menu:
 params:
   font-family: "sans-serif"
   description: "Nicola's personal website"
-  footer: "&copy; Nicola Mauri  2022 | [Linkedin](https://www.linkedin.com/in/nicola-mauri-53a9a24b/) | [Twitter](https://twitter.com/nm_zeno) | [RePEc](https://ideas.repec.org/f/pma3114.html)" 
+  footer: "&copy; Nicola Mauri  2023 | [Linkedin](https://www.linkedin.com/in/nicola-mauri-53a9a24b/) | [Twitter](https://twitter.com/nm_zeno) | [RePEc](https://ideas.repec.org/f/pma3114.html)" 
 markup:
   highlight:
     codeFences: false

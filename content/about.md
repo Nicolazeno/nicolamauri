@@ -2,6 +2,13 @@
 author: 
 title: Contact
 ---
+### Current Employment
+Scientific collaborator  - Swiss Federal tax administration
+
+### Education
+PhD Economics, University of Lausanne
+
+### Contact
 
 Eidgenössische Steuerverwaltung ESTV \
 Administration Fédérale des Contributions AFC\
