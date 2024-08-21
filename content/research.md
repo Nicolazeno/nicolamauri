@@ -5,7 +5,7 @@ title: Research
 
 ## Working Papers
 
-- [The Influence of Intergovernmental Grants on Local Taxes: Evidence from Switzerland](/./images/draft2024.pdf) (with Linus Peter) *Regional Science and Urban Economics*, _Revise and resubmit_ 
+- [The Influence of Intergovernmental Grants on Local Taxes: Evidence from Switzerland](/./images/draft_2024.pdf) (with Linus Peter) *Regional Science and Urban Economics*, _Revise and resubmit_ 
 
 - [Progressive Taxation, Commuting Costs and Residential Decisions in Fiscally Decentralized Cities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4357959) (Latest draft 02/2023) with Jeremy Zuchuat
 
